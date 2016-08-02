@@ -1,5 +1,5 @@
 {
-  "name": "co-views",
+  "name": "co-views-velocity",
   "version": "2.1.0",
   "repository": "tj/co-views",
   "description": "Higher level promise-based template rendering for Co and others, built on co-render",
@@ -14,7 +14,7 @@
     "index.js"
   ],
   "dependencies": {
-    "co-render": "1",
+    "co-render-velocity": "^1.1.0",
     "debug": "2",
     "object-assign": "4"
   },

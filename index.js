@@ -5,7 +5,7 @@
 
 var debug = require('debug')('co-views');
 var assign = require('object-assign');
-var render = require('co-render');
+var render = require('co-render-velocity');
 var path = require('path');
 var extname = path.extname;
 var join = path.join;
